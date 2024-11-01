@@ -5,4 +5,5 @@ def handle_packet(packet):
         if packet[ICMP].type == 8:
             packet.show()
 
-sniff(filter="icmp", prn=handle_packet)
+if __name__ == "__main__":
+    sniff(filter="icmp", prn=handle_packet)

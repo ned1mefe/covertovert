@@ -6,7 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group Information
+-----------------
+- **Name 1**: Nedim Efe Candaş (Student ID: 2521326)
+- **Name 2**: İbrahim Emre Ertürk (Student ID: 2521557)
+- **Group ID**: 21
 
 
 .. toctree::
